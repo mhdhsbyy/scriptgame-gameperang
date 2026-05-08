@@ -26,7 +26,7 @@ public class Spawn : MonoBehaviour
 
     void Spawner()
     {
-        Vector2 direction = new Vector2(player.position.x + 5, player.position.y);
+        Vector2 direction = new Vector2(player.position.x + 10, player.position.y);
 
         // 3 bagian
         // 1. object
